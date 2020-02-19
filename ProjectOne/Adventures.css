@@ -1,0 +1,36 @@
+.b3 {
+animation: blinker 0.6s linear infinite;
+color: blue;
+font-size: 30px;
+font-weight: bold;
+font-family: sans-serif;
+}
+.b2 {
+animation: blinker 0.6s linear infinite;
+color: yellow;
+font-size: 30px;
+font-weight: bold;
+font-family: sans-serif;
+}
+.b1 {
+animation: blinker 0.6s linear infinite;
+color: green;
+font-size: 30px;
+font-weight: bold;
+font-family: sans-serif;
+}
+@keyframes blinker {
+50% { opacity: 0; }
+}
+.blink-one {
+animation: blinker-one 1s linear infinite;
+}
+@keyframes blinker-one {
+0% { opacity: 0; }
+}
+.blink-two {
+animation: blinker-two 1.4s linear infinite;
+}
+@keyframes blinker-two {
+100% { opacity: 0; }
+}
