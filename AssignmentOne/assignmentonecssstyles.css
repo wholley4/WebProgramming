@@ -1,0 +1,49 @@
+body
+            {
+                background-color: chocolate;
+            }
+        .artist
+            {
+                font-size: 14pt;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                color: moccasin;
+            }
+        .songtitle
+            {
+                font-size: 14pt;
+                font-family: Arial, Helvetica, sans-serif;
+                color: khaki;
+            }
+            .album
+            {
+                font-size: 12pt;
+                font-family: Arial, Helvetica, sans-serif;
+                color: khaki;
+            }
+            .year
+            {
+                font-size: 12pt;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                color: ivory;   
+            }
+            .verse
+            {
+                font-size: 14pt;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-weight: bold;
+                color: gold;
+                margin-left: 2cm;
+                margin-right: 2cm;
+            }
+            .chorus
+            {
+                font-size: 14pt;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-weight: bold;
+                font-style: italic;
+                color: gold;
+                margin-left: 4cm;
+                margin-right: 4cm;
+            }
