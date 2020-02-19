@@ -1,0 +1,148 @@
+body{
+    background-image: url(background.png);
+}
+.main-header {
+   text-align: center;
+ }
+ div.a {
+   text-align: center;
+ }
+ div.b{
+     border-style: solid;
+
+     border-width: 4px;
+
+     height: 800px;
+
+    margin: auto;
+
+     border-color: gray;
+
+ }
+
+ div.d {
+ float: right;
+ background-color: #A2B964;
+
+ }
+
+ div.e {
+   background-color: #A2B964;
+   width: 250px;
+   height:376px;
+ }
+div.overview{
+ font: Arial;
+ font-size: 8px;
+ margin-left: 10px;
+ padding-bottom: 0;
+}
+dl.styling dt {
+ color: #000;
+font-weight: bold;
+padding: 0;
+}
+div.f {
+width:100%;
+height: 85px;
+background-image: url(./rottenbackground.png);
+}
+
+.item {
+    font-size: 8pt;
+    border-style: solid;
+    border-color: gray;
+    background-color: #E1D697;
+    border-radius: 0%;
+    margin: 8px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-top: 2px;
+    float: left;
+  }
+
+  img{
+      float: left;
+  }
+
+.row1{
+    position:relative;
+    width:200px;
+    left: 100px;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+}
+
+.row2{
+     
+    left:100px;
+    top:20px;
+    width:200px;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+}
+.row3{ 
+    position: relative;
+    width:200px;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+    bottom:320px;
+    left:900px;
+}
+.row4{ 
+    position: relative;
+    left:100px;
+    width:200px;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+    top:-3em;
+}
+.row5{ 
+    position: relative;
+    left:50px;
+    width:200px;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+    top:3em;
+}
+.row6{ 
+    position: relative;
+    left:100px;
+    width:200px;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+    top:600px;
+}
+.row7{ 
+    position: relative;
+    left:50px;
+    width:200px;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+    top:700px;
+}
+.row8{ 
+    position: relative;
+    left:100px;
+    width:23%;
+    padding-top: 10px;
+    padding-right: 0;
+    padding-bottom: 10px;
+    padding-left: 0;
+    top:400px;
+}
